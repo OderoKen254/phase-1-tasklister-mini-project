@@ -1,11 +1,3 @@
-	
-Erick Mong'are
-2 hours ago
-
-
-
-
-Paste this inside your package.json file
 {
     "name": "js-task-lister-lite",
     "version": "1.0.0",
